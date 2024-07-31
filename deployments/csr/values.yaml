@@ -1,0 +1,4 @@
+image:
+  repository: wibubunbo/cantonese-speech-recognition
+  tag: "0.0.1"
+  pullPolicy: Always
